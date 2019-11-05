@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI?ref=badge_shield)
+
 Question 1
 Mr. Little Z is on winter vacation, and he has decided to go to the planet Zearth. The only way of traveling through space is by using the aliens' teleportation machines. Mr. Little Z can teleport directly from planet Earth to the planet Zearth, but it is really risky. The aliens haven't perfected their teleportation machine. The greater the distance of traveling the bigger is risk. Because of this, the aliens have built more teleportation stations all throughout space. Teleporting through consecutive teleportation stations lowers the risk.
 
@@ -125,3 +127,7 @@ The implemented method in the code is used to solve the minimum spanning tree pr
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI?ref=badge_large)
